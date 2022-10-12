@@ -1,0 +1,36 @@
+[
+    {
+        "type":"My doors",
+        "title":"My doors",
+        "items": [
+            {
+              "firstImage" : "frirstImage-firstGroup",
+              "titleLabel" : "Front door",
+              "subTitleLabel" : "Home",
+              "statusLabel" : "Locked",
+              "secondImage" : "secondImage-firstGroup"
+            },
+            {
+              "firstImage" : "frirstImage-secondGroup",
+              "titleLabel" : "Front door",
+              "subTitleLabel" : "Office",
+              "statusLabel" : "Unlocked",
+              "secondImage" : "secondImage-secondGroup"
+            },
+            {
+              "firstImage" : "frirstImage-threeGroup",
+              "titleLabel" : "Front door",
+              "subTitleLabel" : "Home",
+              "statusLabel" : "Unlocking...",
+              "secondImage" : "secondImage-threeGroup"
+            },
+            {
+              "firstImage" : "frirstImage-fourGroup",
+              "titleLabel" : "Front door",
+              "subTitleLabel" : "Home",
+              "statusLabel" : "Locked",
+              "secondImage" : "secondImage-fourGroup"
+            }
+        ]
+    }
+]
